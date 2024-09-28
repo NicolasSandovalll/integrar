@@ -5,7 +5,6 @@ public class Avance01 {
 
     private static final Scanner scanner = new Scanner(System.in);
 
-
     public static void menuPrincipal() {
         int opcion;
         do {
